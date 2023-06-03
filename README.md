@@ -1,5 +1,5 @@
 ## Project Host URL: https://arjyaman1.github.io/Image_Editor/
-## Project REPO URL: 
+## Project REPO URL: https://github.com/Arjyaman1/Image_Editor
 <br>
 <h3>In this project (Image Editor in JavaScript), as you’ve seen in the preview image, users can apply different filters to their image like grayscale, inversion, saturation, and adjust the image brightness. Additionally, users can also rotate or flip the images and save their edited images.
 <br><br>This project is made with vanilla JavaScript. I built it with HTML CSS & Vanilla JavaScript. If you’re too beginner in JavaScript and didn’t build projects before, then this image editor code could be difficult to understand.
